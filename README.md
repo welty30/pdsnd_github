@@ -11,6 +11,7 @@ Includes files for analyzing bikeshare data from three cities (recycled from pro
 
 ### Files used
 project2.ipynb
+*.csv files
 
 ### Credits
 https://www.geeksforgeeks.org/sort-dataframe-according-to-row-frequency-in-pandas/#
